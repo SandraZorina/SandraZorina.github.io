@@ -9,5 +9,3 @@ My portfolio:
 [#3.Todo-Planner](https://SandraZorina.github.io/Planner/) - Used JavaScript, jQuery
 
 [#4.Site-page](https://SandraZorina.github.io/Bootstrap/) - Used Bootstrap
-
-[#5.Example-Cart](https://SandraZorina.github.io/Cart/) - Used JavaScript (ES6)
