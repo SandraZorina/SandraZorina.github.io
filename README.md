@@ -1,5 +1,5 @@
 
-# SANDRA ZORINA
-MY PORTFOLIO
+# ALEKSANDRA ZORINA - Junior Frontend Developer
+My portfolio:
 
-[Landing-page](https://sandrazorina.github.io/Landing/) - Layout HTML-page (landing) with jQuery
+[#2.Landing-page](https://sandrazorina.github.io/Landing/) - Used HTML, CSS, jQuery
