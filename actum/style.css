@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.container {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1;
+}
+
+.navbar-nav a,
+button{
+    text-transform: uppercase;
+}
+
+.btn {
+    background-color: #ED3D25;
+    border-color: #ED3D25;
+}
+
+.btn:hover {
+    color: #ED3D25;
+    background-color: white;
+    border-color: #ED3D25;
+}
+
+.aboutAll h1,
+.form h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+.about {
+    text-align: justify;
+}
+.form {
+    background-color: #f8f9fa;
+    padding: 25px 45px;
+}
+
+footer {
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+}
+.address{
+    padding: 25px;
+}
+.logo span {
+    color: #ED3D25;
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.logo,
+.address-detail,
+.contacts,
+.link,
+.links {
+    padding: 10px;
+}
+.address-detail a,
+.links a,
+.contacts .phone {
+    color: #AEB8C4;
+    text-decoration: none;
+}
+
+.contacts .email,
+.link .special-link {
+    color: #ED3D25;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.address-detail a:hover,
+.links a:hover,
+.contacts .phone:hover,
+.contacts .email:hover,
+.link .special-link:hover,
+.office a:hover {
+    text-decoration: underline;
+}
+
+.office {
+    padding: 55px 25px 25px 25px;
+}
+
+.office .title {
+    color: #AEB8C4;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+.office a {
+    color: #ED3D25;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 20px;
+}
