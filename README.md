@@ -6,7 +6,7 @@
 
 [2. Landing-page](https://sandrazorina.github.io/Landing/)
 
-[3. Landing-page(product)](https://SandraZorina.github.io/Landing%20for%20product/)
+[3. Landing-page (for product)](https://SandraZorina.github.io/Landing%20for%20product/)
 
 [4. Todo-Planner](https://SandraZorina.github.io/Planner/)
 
